@@ -1,0 +1,8 @@
+name=Denoising library
+version=1.0
+author=Ezequiel Robles Chong
+maintainer=Ezequiel Robles Chong <ezroch17@gmail.com>
+paragraph=A Denoising library to implementent Weiner or Boll algorithm for Arduino and other Microcontroller
+category=DSP
+url=https://github.com/mcci-catena/arduino-lmic
+architectures=*
